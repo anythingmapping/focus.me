@@ -1,1 +1,2 @@
-# todo_app
+# Focus.me
+A google chrome extension
